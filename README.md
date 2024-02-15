@@ -1,4 +1,5 @@
-### Hi there 👋
+### MCST CIS Academy 
+##Github account for managing projects
 
 <!--
 **scimecarmcvts/scimecarmcvts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
